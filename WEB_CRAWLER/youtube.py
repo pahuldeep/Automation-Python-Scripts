@@ -23,7 +23,7 @@ def youtube(playlist_url):
     # Loop through each video element and extract the duration
     for video_element in video_elements:
         video_title = video_element.find_element(By.CSS_SELECTOR, 'h3').text
-        video_duration = video_element.find_element(By.CSS_SELECTOR, 'span.style-scope.ytd-thumbnail-overlay-time-status-renderer').text
+        video_duration = video_element.find_element(By.CSS_SELECTOR, 'ytd-thumbnail-overlay-time-status-renderer').text
         print(f'Title: {video_title} - Duration: {video_duration}')
         
         data[video_title] = video_duration
