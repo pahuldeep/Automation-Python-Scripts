@@ -1,12 +1,18 @@
 ##  **Automation-Bots**
 
-This repository contains Python scripts for automating file management tasks using Robotic Process Automation (RPA). 
+This repository contains Python scripts for automating management tasks using Robotic Process Automation (RPA). 
 
-**Features:** current features contains
-
+**Features:** 
+file management features
 + display files
 + remove files
 + rename files
+
+web scripting features
+* youtube playlist durations
+* the Hindu news headlines
+* etc.
+
 
 **Installation:**
 
