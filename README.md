@@ -15,8 +15,7 @@ web scripting features
 
 
 **Installation:**
-Python installed on your system for file management.
-selenium for web-testing
+Python installed on your system for file management & selenium for web-testing
 
 **Usage:**
 
