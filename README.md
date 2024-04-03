@@ -15,8 +15,8 @@ web scripting features
 
 
 **Installation:**
-
-There are no external dependencies required to run these scripts. However, you will need Python installed on your system. You can check and install Python by following the instructions on the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+Python installed on your system for file management.
+selenium for web-testing
 
 **Usage:**
 
