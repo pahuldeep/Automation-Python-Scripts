@@ -5,6 +5,7 @@ from selenium.webdriver.common.keys import Keys
 
 import time
 
+# this function extract the timespan for video playlist you want to watch..
 def youtube(playlist_url):
 
     driver = webdriver.Edge()
